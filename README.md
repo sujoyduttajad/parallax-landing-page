@@ -1,6 +1,6 @@
 # Parallax-effect travel website by HTML, CSS & JS
 
-<img src="./Screenshot(944).png" alt="the screenshot of the app large screen"/>
+<img src="./Screenshot (944).png" alt="the screenshot of the app large screen"/>
 
 [Live Demo](https://cranky-nightingale-587a9f.netlify.app/)
 
